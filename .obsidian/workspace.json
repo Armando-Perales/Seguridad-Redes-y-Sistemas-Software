@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "78b03e683654ff2b",
+        "id": "371a0aa5ce2d1cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb6d2af0c51ae39",
+            "id": "972576f17035b43d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Forensic parte 3/tunn3l_v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/Forensic parte 3/tunn3l_v1s10n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/Forensic parte 3/tunn3l_v1s10n.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/Forensic parte 3/tunn3l_v1s10n.md"
+              }
             }
           }
         ]
@@ -138,6 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cfb6d2af0c51ae39",
-  "lastOpenFiles": []
+  "active": "972576f17035b43d",
+  "lastOpenFiles": [
+    "picoCTF/Forensic parte 3/MacroHard WeakEdge.md",
+    "picoCTF/Forensic parte 3/tunn3l_v1s10n.md",
+    "picoCTF/Forensic parte 3/Matryoshka doll.md",
+    "picoCTF/Forensic parte 3/WebNet0.md",
+    "picoCTF/Forensic parte 3/Webnet1.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Forensic parte 3",
+    "picoCTF/Forensic parte 2/WhitePages.md",
+    "picoCTF/Forensic parte 2/shark on wire 2.md",
+    "picoCTF/Forensic parte 2/m00nwalk.md",
+    "picoCTF/Forensic parte 2/like1000.md",
+    "picoCTF/Forensic parte 2/c0rrupt.md"
+  ]
 }
