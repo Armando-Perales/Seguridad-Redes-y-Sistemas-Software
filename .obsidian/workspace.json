@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb597e2a6058c8c",
+        "id": "f4ccd037f419f0e5",
         "type": "tabs",
         "children": [
           {
-            "id": "8606825ee58b1194",
+            "id": "d39f916e4a1e004e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto  parte 1/waves over lambda.md",
+                "file": "picoCTF/Concurso CTF Metared ANUIES/Misc/Thermal Camera.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Thermal Camera"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de waves over lambda"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "picoCTF/Crypto  parte 1/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de waves over lambda"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "picoCTF/Crypto  parte 1/waves over lambda.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de waves over lambda"
             }
           }
         ]
@@ -146,16 +162,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8606825ee58b1194",
+  "active": "d39f916e4a1e004e",
   "lastOpenFiles": [
+    "picoCTF/Concurso CTF Metared ANUIES/Decoding/Detail.md",
+    "picoCTF/Concurso CTF Metared ANUIES/Crypto/fancy cipher.md",
+    "picoCTF/Concurso CTF Metared ANUIES/Misc/Thermal Camera.md",
+    "Pasted image 20241015123309.png",
+    "20241015123309.png",
+    "picoCTF/Concurso CTF Metared ANUIES/Network/UH HA HA.md",
+    "picoCTF/Concurso CTF Metared ANUIES/Crypto",
+    "picoCTF/Concurso CTF Metared ANUIES/Network",
+    "picoCTF/Concurso CTF Metared ANUIES/Misc",
+    "picoCTF/Concurso CTF Metared ANUIES/Decoding",
+    "picoCTF/Plantilla.md",
+    "20241015184841.png",
     "picoCTF/Crypto  parte 1/The numbers.md",
+    "picoCTF/Crypto  parte 1/waves over lambda.md",
     "picoCTF/Crypto  parte 1/Tapping.md",
     "picoCTF/Crypto  parte 1/la cifra de.md",
     "picoCTF/Crypto  parte 1/Easy 1.md",
     "picoCTF/Crypto  parte 1/Cesar.md",
     "picoCTF/Crypto  parte 1/13.md",
-    "picoCTF/Crypto  parte 1/waves over lambda.md",
-    "picoCTF/Plantilla.md",
+    "picoCTF/Concurso CTF Metared ANUIES",
     "picoCTF/Crypto  parte 1",
     "retos_bandit/Bandit Level 5 → Level 6.md",
     "retos_bandit/Bandit Level 4 → Level 5.md",
@@ -170,11 +198,6 @@
     "picoCTF/Forensic parte 4/Milkslap.md",
     "picoCTF/Forensic parte 4/Disk, disk, sleuth!.md",
     "picoCTF/Forensic parte 4/Operation Orchid.md",
-    "picoCTF/Forensic parte 4/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic parte 4/Sleuthkit Intro.md",
-    "picoCTF/Forensic parte 3/Webnet1.md",
-    "picoCTF/Forensic parte 2/shark on wire 2.md",
-    "picoCTF/Forensic parte 1/shark on wire 1.md",
     "picoCTF/Forensic parte 4",
     "picoCTF/Forensic parte 3"
   ]

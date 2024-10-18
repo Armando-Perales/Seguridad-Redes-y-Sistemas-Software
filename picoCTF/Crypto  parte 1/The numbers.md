@@ -16,6 +16,6 @@ the_numbers.png: PNG image data, 774 x 433, 8-bit/color RGB, non-interlaced
 ┌──(armando㉿kali)-[~/picoCTF/crypto/thenumber]
 └─$ 
 ```
-- Dentro encontramos el codigo y utilizando CyberChef usamos el A1Z26 para deocdificarlo.
+- Dentro encontramos el código y utilizando CyberChef usamos el A1Z26 para decodificarlo.
 ## Notas Adicionales
 ## Referencias
