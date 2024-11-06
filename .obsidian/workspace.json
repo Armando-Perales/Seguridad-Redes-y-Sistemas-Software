@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9b5a744918d72dbe",
+        "id": "20473a15bdadd4b8",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b760e3b41d6a46",
+            "id": "33489d39600e652e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Reversing parte 3/asm1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "asm1"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -162,16 +158,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e1b760e3b41d6a46",
+  "active": "33489d39600e652e",
   "lastOpenFiles": [
+    "picoCTF/Reversing parte 4/reverse_cipher.md",
+    "picoCTF/Reversing parte 4/Need For Speed.md",
+    "picoCTF/Reversing parte 4/GDB Test Drive.md",
+    "picoCTF/Reversing parte 4/asm4.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Reversing parte 3/asm1.md",
+    "picoCTF/Reversing parte 4",
     "picoCTF/Reversing parte 3/asm2.md",
     "picoCTF/Reversing parte 3/asm3.md",
-    "picoCTF/Reversing parte 3/asm1.md",
     "picoCTF/Forensic parte 2/shark on wire 2.md",
     "picoCTF/Reversing parte 3/asm4.md",
     "20241104114758.png",
     "20241104114648.png",
-    "picoCTF/Plantilla.md",
     "picoCTF/Reversing parte 3",
     "Concursos/Hack The Vote 2024/general/sanity/sanity.md",
     "Concursos/Hack The Vote 2024/general/insanity/insanity.md",
@@ -196,14 +197,9 @@
     "Concursos/Hack The Vote 2024/pwn/Comm Club/Comma Club.md",
     "Concursos/Hack The Vote 2024/crypto/ZeroVote/ZeroVote.md",
     "Concursos/Hack The Vote 2024/crypto/ZeroVote/Sin título.md",
-    "Concursos/Hack The Vote 2024/pwn/weechal/weechal.tar.gz",
     "Concursos/Qu3stc0n/Reverse/Unlock the Safe/Unlock the Safe.md",
-    "Concursos/Qu3stc0n/Stego/Long way to go/Long way to go.md",
-    "Concursos/Qu3stc0n/Stego/The Bank Of Spain/The Bank Of Spain.md",
-    "Concursos/Qu3stc0n/Reverse/Unlock the Encrypted Flag/Unlock the Encrypted Flag.md",
     "Concursos/Qu3stc0n/Stego/The Bank Of Spain/Bos.jpeg",
     "Concursos/Qu3stc0n/OSINT/The Flight/airplane_photo.jpg",
-    "Concursos/Qu3stc0n/OSINT/The Flight/The Flight.md",
     "Concursos/Qu3stc0n/OSINT/The Flight/airplane_photo (1).jpg",
     "Concursos/Qu3stc0n/OSINT/The Big Fish/dashcam_capture_20180811.png",
     "Concursos/Qu3stc0n/OSINT/California Dreamin/California_dreamin.png",
