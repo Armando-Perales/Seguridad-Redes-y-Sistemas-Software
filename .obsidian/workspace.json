@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20473a15bdadd4b8",
+        "id": "10d2c00b390bb2e3",
         "type": "tabs",
         "children": [
           {
-            "id": "33489d39600e652e",
+            "id": "695061f61217f173",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Binexp parte 1/Stonks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Stonks"
             }
           }
         ]
@@ -53,7 +57,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Buscar"
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 301.5
   },
   "right": {
     "id": "68fc0052d49b31d8",
@@ -158,53 +162,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "33489d39600e652e",
+  "active": "695061f61217f173",
   "lastOpenFiles": [
-    "picoCTF/Reversing parte 4/reverse_cipher.md",
-    "picoCTF/Reversing parte 4/Need For Speed.md",
-    "picoCTF/Reversing parte 4/GDB Test Drive.md",
-    "picoCTF/Reversing parte 4/asm4.md",
+    "picoCTF/Binexp parte 1/RPS.md",
+    "picoCTF/Binexp parte 1/flag leak.md",
+    "picoCTF/Binexp parte 1/buffer overflow 0.md",
+    "picoCTF/Binexp parte 1/Stonks.md",
+    "picoCTF/Binexp parte 1/basic-file-exploit.md",
+    "20241112122646.png",
+    "20241112121143.png",
     "picoCTF/Plantilla.md",
-    "picoCTF/Reversing parte 3/asm1.md",
+    "picoCTF/Binexp parte 1",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Reversing/Baby rev.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Misc/Discord 1.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Misc/Trust in my calculator.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Crypto/Baguette Cipher.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Beginner/T.E.G. 1 - Hide and Seek.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Beginner/Onion login.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Beginner/Git 1 - Baby.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Beginner/Poke 0 - Just Want a Totodile.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Beginner/HTTP specialist.md",
+    "Concursos/CTF MetaRed Argentina-TIC 2024/Beginner/Designer.md",
+    "picoCTF/Crypto parte 2/rsa-pop-quiz.md",
+    "picoCTF/Crypto parte 3/basic-mod1.md",
+    "picoCTF/Crypto parte 3/HideToSee.md",
+    "picoCTF/Crypto parte 3/Mind your Ps and Qs.md",
+    "picoCTF/Crypto parte 3/Pixelated.md",
+    "picoCTF/Crypto parte 3/ReadMyCert.md",
+    "picoCTF/Forensic parte 1/extensions.md",
+    "picoCTF/Forensic parte 1/Glory of the Garden.md",
+    "picoCTF/Forensic parte 1/shark on wire 1.md",
     "picoCTF/Reversing parte 4",
-    "picoCTF/Reversing parte 3/asm2.md",
-    "picoCTF/Reversing parte 3/asm3.md",
-    "picoCTF/Forensic parte 2/shark on wire 2.md",
-    "picoCTF/Reversing parte 3/asm4.md",
     "20241104114758.png",
     "20241104114648.png",
     "picoCTF/Reversing parte 3",
-    "Concursos/Hack The Vote 2024/general/sanity/sanity.md",
-    "Concursos/Hack The Vote 2024/general/insanity/insanity.md",
     "Concursos/Hack The Vote 2024/general/insanity",
-    "Concursos/Hack The Vote 2024/re/Soviet Bloc Device/Soviet Bloc Device.md",
     "Concursos/Hack The Vote 2024/general/sanity",
     "Concursos/Hack The Vote 2024/general",
-    "Concursos/Hack The Vote 2024/re/The Thirty Twodle Challenge/The Thirty Twodle Challenge.md",
-    "Concursos/Hack The Vote 2024/re/knock/knock.md",
-    "Concursos/Hack The Vote 2024/Web/graph 1/graph 1.md",
-    "Concursos/Hack The Vote 2024/Web/Poll Vault/Poll Vault.md",
     "Concursos/Hack The Vote 2024/re/Soviet Bloc Device",
     "Concursos/Hack The Vote 2024/re/The Thirty Twodle Challenge",
-    "Concursos/Hack The Vote 2024/forensics/small snake/small snake.md",
     "Concursos/Hack The Vote 2024/re/knock",
-    "Concursos/Hack The Vote 2024/forensics/graph 2/graph 2.md",
     "Concursos/Hack The Vote 2024/Web/Poll Vault",
-    "Concursos/Hack The Vote 2024/pwn/weechal/weechal.md",
-    "Concursos/Hack The Vote 2024/Web/graph 1",
-    "Concursos/Hack The Vote 2024/pwn/JMI/JMI.md",
-    "Concursos/Hack The Vote 2024/pwn/Comma Club Revenge/Comma Club Revenge.md",
-    "Concursos/Hack The Vote 2024/pwn/Comm Club/Comma Club.md",
-    "Concursos/Hack The Vote 2024/crypto/ZeroVote/ZeroVote.md",
-    "Concursos/Hack The Vote 2024/crypto/ZeroVote/Sin título.md",
-    "Concursos/Qu3stc0n/Reverse/Unlock the Safe/Unlock the Safe.md",
     "Concursos/Qu3stc0n/Stego/The Bank Of Spain/Bos.jpeg",
     "Concursos/Qu3stc0n/OSINT/The Flight/airplane_photo.jpg",
     "Concursos/Qu3stc0n/OSINT/The Flight/airplane_photo (1).jpg",
     "Concursos/Qu3stc0n/OSINT/The Big Fish/dashcam_capture_20180811.png",
     "Concursos/Qu3stc0n/OSINT/California Dreamin/California_dreamin.png",
-    "Concursos/Qu3stc0n/Crypto/Visual Heist/layer2.png",
-    "Concursos/Qu3stc0n/Crypto/Visual Heist/layer1.png",
-    "20241030104736.png"
+    "Concursos/Qu3stc0n/Crypto/Visual Heist/layer2.png"
   ]
 }
